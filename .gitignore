@@ -1,0 +1,7 @@
+/api/migrations/
+#/myauthentication/migrations/
+/venv/
+.idea/
+/chat/migrations/
+/assets/
+.env
